@@ -1,7 +1,0 @@
-test
-dev2 -- 2
-<<<<<<< HEAD
-dev3 -- 3
-=======
-add lasting content "hello"
->>>>>>> lasting content
